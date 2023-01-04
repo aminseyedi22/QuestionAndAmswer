@@ -1,0 +1,124 @@
+{
+    "result": [
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the main character in &quot;The Stanley Parable&quot;?",
+            "correct_answer": "Stanley",
+            "incorrect_answers": [
+                "The Adventure Line",
+                "The Narrator",
+                "The Boss"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?",
+            "correct_answer": "Kiefer Sutherland",
+            "incorrect_answers": [
+                "David Hayter",
+                "Norman Reedus",
+                "Hideo Kojima"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Finish these lyrics from the 2016 song &quot;Panda&quot; by Desiigner: &quot;I got broads in _______&quot;.",
+            "correct_answer": "Atlanta",
+            "incorrect_answers": [
+                "Savannah",
+                "Augusta",
+                "Marietta"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?",
+            "correct_answer": "Animalympics",
+            "incorrect_answers": [
+                "The Fox and the Hound",
+                "The Black Cauldron",
+                "The Great Mouse Detecive"
+            ]
+        },
+        {
+            "category": "Entertainment: Comics",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the alter-ego of the DC comics character &quot;Superman&quot;?",
+            "correct_answer": "Clark Kent",
+            "incorrect_answers": [
+                "Bruce Wayne",
+                "Arthur Curry",
+                "John Jones"
+            ]
+        },
+        {
+            "category": "Sports",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who won the &quot;Champions League&quot; in 1999?",
+            "correct_answer": "Manchester United",
+            "incorrect_answers": [
+                "Barcelona",
+                "Bayern Munich",
+                "Liverpool"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Which of these characters won the Super Smash Bros. Fighter Ballot in 2015?",
+            "correct_answer": "Bayonetta",
+            "incorrect_answers": [
+                "Cloud",
+                "Ryu",
+                "Megaman"
+            ]
+        },
+        {
+            "category": "Entertainment: Film",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who provided a majority of the songs and lyrics for &quot;Spirit: Stallion of the Cimarron&quot;?",
+            "correct_answer": "Bryan Adams",
+            "incorrect_answers": [
+                "Smash Mouth",
+                "Oasis",
+                "Air Supply"
+            ]
+        },
+        {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "In Overwatch, what is L&uacute;cio&#039;s full name?",
+            "correct_answer": "L&uacute;cio Correia Dos Santos",
+            "incorrect_answers": [
+                "L&uacute;cio Luiz L&oacute;s Guilherme",
+                "L&uacute;cio Jo&atilde;o Lucas",
+                "L&uacute;cio Chupar Prima"
+            ]
+        },
+        {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The Canadian $1 coin is colloquially known as a what?",
+            "correct_answer": "Loonie",
+            "incorrect_answers": [
+                "Boolie",
+                "Foolie",
+                "Moodie"
+            ]
+        }
+    ]
+}
